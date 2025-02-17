@@ -23,8 +23,8 @@ section::before {
   top: 29%;
   right: 20%;
   border-radius: 50%;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   background: radial-gradient(#ff2c24, #FF9800 50%);
   box-shadow: inset 0px 0px 8px 8px #FF9800,
     0px 0px 15px 10px #FF9800,
@@ -40,8 +40,8 @@ section::after {
   bottom: 32%;
   left: 20%;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   background: radial-gradient(#0f24f9 20%, #01d6ff 80%);
   box-shadow: inset 0px 0px 10px 5px #01d6ff,
     0px 0px 15px 8px #01d6ff,
