@@ -64,7 +64,7 @@ section::after {
 
 .clock {
   position: relative;
-  width: 50%;
+  width: 80%;
   height: 120px;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.1);
